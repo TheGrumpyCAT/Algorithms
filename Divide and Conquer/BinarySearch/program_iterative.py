@@ -13,5 +13,4 @@ def binary_search(arr, left, right, k):
 
 arr = [5, 4, 3, 2, 1]
 search_el = 5
-ans = binary_search(arr, 0, len(arr), search_el)
-print(ans)
+print(binary_search(arr, 0, len(arr), search_el))

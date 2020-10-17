@@ -14,5 +14,4 @@ def binary_search(arr, search_el):
 
 arr = [5, 4, 3, 2, 1]
 search_el = 5
-ans = binary_search(arr, search_el)
-print(ans)
+print(binary_search(arr, search_el))
