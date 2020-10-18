@@ -35,5 +35,5 @@ From above image let's consider 2<sup>10</sup>. we can calculate 2<sup>5</sup> a
 
 The output for the following is  
  <div align='center'>
-    <img src='output.PNG'/>
+    <img src='Output.png'/>
 </div> 
