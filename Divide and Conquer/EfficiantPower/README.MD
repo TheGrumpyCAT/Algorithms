@@ -13,6 +13,7 @@ We can achieve a time complexity of O(log n) if we use divide and conquer algori
     <img src='power.png'/>
 </div> 
 From above image let's consider 2<sup>10</sup>. we can calculate 2<sup>5</sup> and multiply by itself. We repeat till exponent reaches 0.If exponent reaches 0 then we return 1.      
+  
 <b>Program<b>  
 
     def calculate_power(base , exponent):
